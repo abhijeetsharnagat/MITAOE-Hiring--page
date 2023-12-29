@@ -42,7 +42,7 @@ We encourage community contribution to our project. If you find a bug or would l
 
 ## Contact Us 
 
-For any queries, feel free to reach out to us at our [Email](neeraj.kumar@mitaoe.ac.in)
+For any queries, feel free to reach out to us at our [Email](abhijeetsharnagat200@gmail.com)
 
 ---
 
