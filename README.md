@@ -9,7 +9,7 @@ This repository contains the source code for the Hiring page of the CodeChef Clu
 
 ## Our Mission
 
-The CodeChef Club of MITAOE is a vibrant community of passionate coders and programming enthusiasts. Our mission is to foster a collaborative and engaging environment where members can enhance their coding skills, explore new technologies, and participate in exciting coding competitions.
+The CodeChef Club of MITAOE is a vibrant community of passionate coders and programming enthusiasts. Our mission is to foster a collaborative and engaging environment where members can enhance their coding skills, explore new technologies, and participate in different coding competitions.
 
 ## Project Overview
 
